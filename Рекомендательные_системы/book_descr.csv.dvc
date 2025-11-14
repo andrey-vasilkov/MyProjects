@@ -1,0 +1,5 @@
+outs:
+- md5: 146b4ace162e51554061316adbd82a96
+  size: 15068091
+  hash: md5
+  path: book_descr.csv
