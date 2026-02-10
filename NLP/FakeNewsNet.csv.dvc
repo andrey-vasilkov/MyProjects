@@ -1,0 +1,5 @@
+outs:
+- md5: d9abfcf49fe1e5a0ee84a4fb7726c8ce
+  size: 4314859
+  hash: md5
+  path: FakeNewsNet.csv

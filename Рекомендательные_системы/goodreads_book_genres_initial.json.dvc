@@ -1,0 +1,5 @@
+outs:
+- md5: c4f5211a04893bf2b3dd690edefcd08d
+  size: 199903667
+  hash: md5
+  path: goodreads_book_genres_initial.json

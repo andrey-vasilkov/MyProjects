@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/vasan/PycharmProjects/Mlflow/mlruns/934284170026632990/models/m-30f7527e70d44b1a996f5e5f28fa98cb/artifacts
+creation_timestamp: 1763116651448
+experiment_id: '934284170026632990'
+last_updated_timestamp: 1763116653543
+model_id: m-30f7527e70d44b1a996f5e5f28fa98cb
+model_type: null
+name: model
+source_run_id: 284bc4dfa1a647c987a410036bdca83c
+status: 2
+status_message: null

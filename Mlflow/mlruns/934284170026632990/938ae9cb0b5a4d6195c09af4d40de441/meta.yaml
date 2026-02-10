@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vasan/PycharmProjects/Mlflow/mlruns/934284170026632990/938ae9cb0b5a4d6195c09af4d40de441/artifacts
+end_time: 1763116876002
+entry_point_name: ''
+experiment_id: '934284170026632990'
+lifecycle_stage: active
+run_id: 938ae9cb0b5a4d6195c09af4d40de441
+run_name: experiment_7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763116857469
+status: 3
+tags: []
+user_id: vasan
